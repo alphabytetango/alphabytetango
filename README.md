@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @alphabytetango; my passions are software, art, and combining both to make something special.
+- 👀 I’m interested in everything and anything - always learning something new.
+- 💞️ I’m looking to collaborate on something, just not sure what.
