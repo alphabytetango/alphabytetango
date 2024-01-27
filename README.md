@@ -6,10 +6,8 @@
 
 Welcome to our Github page!
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
-
-#### 🌱 Currently working on:
+#### 🌱 Working on:
 - [![example-app](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/alphabytetango/example-app)
 
 #### 🌐 Socials:
