@@ -1,20 +1,15 @@
-### Hi there 👋
-### This is Shaun Thompson, co-owner of AlphaByteTango
+### Hi there 👋 this is Shaun Thompson, co-owner of AlphaByteTango.
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/alphabytetango/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/s-thomps/)
+### Welcome to our Github page!
 
-Welcome to our Github page!
+#### Working on:
+[![example-app](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/alphabytetango/example-app)
 
-
-#### 🌱 Working on:
-- [![example-app](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/alphabytetango/example-app)
-
-#### 🌐 Socials:
+#### Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s-thomps)
 
 
-#### 💻 Tech Stack:
+#### Tech Stack:
 <p>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
